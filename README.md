@@ -2,7 +2,8 @@
 
 ## A Program to test personality type based on The Myers-Briggs Type Indicator® (MBTI®) assessment.
 
-This program creating using C and Makefile.
+This program coding using C and Makefile.
+This test have total 150 questions and all question must be answered within 1 to 9 score scale.
 
 ## Installation
 
