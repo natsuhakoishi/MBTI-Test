@@ -18,4 +18,4 @@ This test have total 150 questions and all question must be answered within 1 to
 
 ## Known issues
 
-1.	Feel free report to me at Discord or in Github's 'Issues' page, thank you!
+1.	Found some repeated questions in same meaning may probably affect the skew for the related category and the result of users personality.
