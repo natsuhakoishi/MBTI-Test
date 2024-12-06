@@ -8,6 +8,16 @@ I prefer working in a team rather than working alone.
 I tend to speak before I think.
 I recharge best in social settings rather than in solitude.
 I am more energized by engaging with people than reflecting on my own ideas.
+I enjoy participating in social gatherings even if I don’t know most of the people.
+I enjoy spending time with a lot of people even in my free time.
+I find networking events stimulating and enjoyable.
+I can easily strike up conversations with strangers.
+I prefer spontaneous social events rather than planned, low-key gatherings.
+I feel more confident when interacting with a group than when I’m alone.
+I tend to be active in group chats or social media platforms.
+I feel uneasy when there are long silences in a conversation.
+I get bored if I don’t have regular interaction with others.
+I feel more connected to others when I spend time with them in a group setting.
 I prefer dealing with concrete facts rather than abstract concepts.
 I am more interested in what is real and practical than in exploring possibilities and ideas.
 I trust information that comes through my five senses more than gut feelings.
@@ -18,6 +28,16 @@ I focus more on present realities than future possibilities.
 I value clarity and precision more than creative interpretation.
 I am drawn to hands-on activities rather than theoretical discussions.
 I find it easier to recall specific details than summarize overarching themes.
+I prefer making decisions based on facts rather than abstract ideas.
+I prefer following routines that I can depend on rather than changing them up.
+I tend to remember specific details and facts more than the overall context.
+I like having clear, straightforward instructions when learning something new.
+I focus more on how things work practically rather than exploring abstract theories.
+I find it easier to understand new technologies based on concrete examples.
+I feel uncomfortable when I don’t have enough facts to make a decision.
+I often use past experiences to guide future actions.
+I prefer to gather information through sensory experience rather than intuition.
+I enjoy tasks that involve working with physical objects or machinery.
 I make decisions based on logic and objectivity rather than emotions and personal values.
 I am more likely to analyze problems than empathize with people.
 I prioritize fairness over kindness.
@@ -28,6 +48,16 @@ I focus more on finding solutions than supporting others emotionally.
 I consider myself more rational than compassionate.
 I am more comfortable debating ideas than sharing feelings.
 I place a higher emphasis on being right rather than being considerate.
+I value consistency over flexibility in decision-making.
+I tend to solve problems based on facts and logic.
+I prefer to address difficult situations directly rather than soften the blow.
+I think it’s important to make decisions without being influenced by emotions.
+I believe that fairness is more important than kindness in decision-making.
+I enjoy discussing intellectual subjects over emotional ones.
+I prefer solutions that are practical rather than ones that consider everyone’s feelings.
+I find it easy to stay objective even in emotionally charged situations.
+I make decisions based on principles rather than personal relationships.
+I enjoy explaining things logically rather than using emotional appeals.
 I prefer structured routines rather than flexible plans.
 I am more likely to finish projects early rather than leave them until the last minute.
 I prefer having a clear plan rather than going with the flow.
@@ -38,53 +68,83 @@ I prefer planning every detail rather than adapting as things unfold.
 I find it stressful to deviate from a plan.
 I am more likely to prioritize tasks rather than follow my impulses.
 I enjoy creating to-do lists rather than simply going where the day takes me.
+I prefer having a detailed schedule when traveling.
+I like to set clear goals and work toward them in an orderly way.
+I feel uneasy when my day lacks structure or spontaneity.
+I tend to stick to a set of rules or principles rather than improvising.
+I enjoy checking off tasks on a to-do list.
+I like having deadlines and expectations for myself.
+I prefer to know what to expect rather than deal with surprises.
+I tend to finish projects ahead of schedule.
+I often prefer to get things done in advance rather than wait until the last minute.
+I find it difficult to leave things open-ended.
 I enjoy lively, practical discussions rather than reflective, abstract ones.
 I am drawn to hands-on group projects.
 I enjoy sharing real-life experiences with others.
 I prefer pondering future possibilities over current realities.
 I am drawn to theoretical, solitary activities.
 I enjoy deep, one-on-one discussions about abstract ideas.
-I focus more on factual accuracy than emotional considerations.
-I am drawn to jobs with clear rules and practical outcomes.
-I rely on past experiences to make logical decisions.
-I prioritize imagining ideal futures for people.
-I am drawn to creative fields that focus on emotional expression.
-I find value in interpreting emotions over analyzing facts.
-I prefer making quick, logical decisions rather than pondering options.
-I am drawn to leadership roles with structured problem-solving.
-I enjoy creating detailed action plans and sticking to them.
-I value personal growth over task completion.
-I am drawn to helping others in unpredictable, spontaneous ways.
-I prefer leaving room for emotional flexibility in plans.
-I often feel misunderstood by people who don’t think like me.
-I am more focused on personal success rather than collective harmony.
-I feel more comfortable in traditional settings rather than innovative ones.
-I often find myself overthinking decisions.
-I am naturally curious about other people’s thought processes.
-I frequently reflect on how my choices align with my values.
-I am more intrigued by how things work rather than why people act the way they do.
-I feel more in control when everything is planned rather than when things are open-ended.
-I handle disagreements at work by addressing the issue directly.
-I prefer planning a vacation months in advance rather than deciding spontaneously.
-I usually spend my weekends relaxing or doing personal activities.
-I enjoy debating controversial topics.
-I react to unexpected challenges by thinking quickly and finding a solution.
-I prefer solving practical problems rather than brainstorming creative ideas.
-I think of myself as more pragmatic than idealistic.
-I am more drawn to technical skills than interpersonal skills.
-I describe my approach to decision-making as logical and structured.
-I believe people should follow rules rather than question them.
-I identify as more adaptable than steadfast.
-I consider myself more emotionally expressive than reserved.
-I approach group discussions by contributing ideas and listening to others.
-I prefer feedback that is specific and constructive.
-I focus on long-term goals rather than short-term achievements.
-I balance work and personal life by maintaining clear boundaries.
-I prefer a busy city over a quiet countryside.
-I am more likely to write in a journal than chat with a friend.
-I prefer movies with action over complex storytelling.
-I would rather explore a new place with friends than alone.
-I prefer video calls over texting.
-I am drawn to puzzles over creative hobbies.
-I prefer structured board games over freeform role-playing games.
-I would spend a day with no responsibilities by doing something spontaneous or relaxing.
+I enjoy socializing with large groups rather than small intimate groups.
+I am comfortable speaking in public or in front of crowds.
+I tend to be enthusiastic in group conversations.
+I prefer spending time in a bustling, dynamic environment rather than a calm, quiet one.
+I prefer having tangible, hands-on experiences over purely theoretical ones.
+I find comfort in detailed and specific instructions rather than open-ended projects.
+I like taking a practical, straightforward approach to problems.
+I value tradition and tried methods over experimenting with new ones.
+I tend to make decisions based on what works in practice rather than potential future outcomes.
+I rely heavily on my past experiences when making decisions.
+I am drawn to careers that involve measurable, concrete outcomes.
+I focus more on understanding how things work rather than exploring new ideas.
+I enjoy organizing information in a structured, practical way.
+I prefer working with facts and figures rather than theories and ideas.
+I prefer making decisions based on analysis rather than my gut feelings.
+I tend to be more critical when assessing situations.
+I prioritize efficiency over harmony in group work.
+I value objectivity more than emotional consideration when making decisions.
+I find it easy to remove emotions from difficult decisions.
+I prefer problem-solving over empathizing with others.
+I believe decisions should be made rationally, without too much emotional involvement.
+I appreciate directness over diplomacy.
+I feel more satisfied when a solution is logical, even if it’s less personal.
+I trust logical reasoning over personal connections when making decisions.
+I feel more comfortable when everything is planned in advance.
+I prefer to have a structured approach to tasks rather than leave them open-ended.
+I enjoy organizing my day to maximize productivity.
+I prefer working in an environment where the expectations and goals are clear.
+I find it stressful when there is uncertainty or lack of planning.
+I feel comfortable following a set of clear guidelines.
+I prefer sticking to a routine rather than making things up as I go along.
+I tend to be methodical when working on projects.
+I like to stick to my commitments rather than change my plans.
+I often have a detailed to-do list to guide my day.
+I prefer engaging in social activities rather than staying home alone.
+I enjoy taking risks and trying new things rather than playing it safe.
+I am more comfortable with certainty than ambiguity.
+I enjoy making quick decisions rather than overthinking options.
+I feel fulfilled when I accomplish specific, measurable goals.
+I enjoy challenging myself with new, unfamiliar activities.
+I prefer a stable routine to a flexible one.
+I enjoy setting long-term goals that I can work towards steadily.
+I appreciate structured environments that provide clear expectations.
+I prefer tasks that involve personal reflection rather than group discussion.
+I tend to seek leadership roles rather than follow others.
+I enjoy collaborating on projects with a group rather than working solo.
+I value open communication and transparency in work environments.
+I prefer having clear goals at work rather than vague expectations.
+I tend to take charge when working in teams.
+I enjoy networking and meeting new people in professional settings.
+I feel more comfortable when I know exactly what is expected of me.
+I often find myself encouraging others to share their opinions.
+I enjoy mentoring others more than following instructions.
+I prefer structured work schedules to flexible ones.
+I find happiness in completing tasks rather than in leisurely pursuits.
+I enjoy discussing ideas with others rather than focusing on emotions.
+I value autonomy and independence in my career and personal life.
+I appreciate traditions and customs in both personal and professional life.
+I find personal satisfaction in understanding the details of how things work.
+I prefer environments that are predictable rather than chaotic.
+I tend to place a higher value on personal growth than on external rewards.
+I believe that achieving practical goals is more important than creative expression.
+I prefer making decisions based on personal experiences rather than external advice.
+I find it easier to prioritize my tasks when I follow a clear plan.

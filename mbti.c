@@ -71,88 +71,50 @@ int	main(int argc, char **argv)
 			}
 			printf("\n");
 		}
-		if (ques_count >= 1 && ques_count <= 10) //E vs I
+		if ((ques_count >= 1 && ques_count <= 20) || (ques_count >= 81 && ques_count <= 90) || \
+				ques_count == 121 || ques_count == 131 || ques_count == 132 || ques_count == 133 || \
+				ques_count == 135 || ques_count == 136 || ques_count == 138 || ques_count == 139 || \
+				ques_count == 142) //E vs I
 		{
 			score[0] += input;
 			max[0] += 10;
 		}
-		else if ((ques_count >= 11 && ques_count <= 20) || ques_count == 65 || \
-					ques_count == 71 || ques_count == 72 || ques_count == 74 || \
-					ques_count == 85 || ques_count == 88) //S vs N
+		else if ((ques_count >= 21 && ques_count <= 40) || (ques_count >= 91 && ques_count <= 100) || \
+					ques_count == 144 || ques_count == 145 || ques_count == 148) //S vs N
 		{
 			score[1] += input;
 			max[1] += 10;
 		}
-		else if ((ques_count >= 21 && ques_count <= 30) || ques_count == 60 || \
-					ques_count == 64 || ques_count ==  67 || ques_count == 70 || \
-					ques_count == 73 || ques_count == 75 || ques_count ==  80) //T vs F
+		else if ((ques_count >= 41 && ques_count <= 60) || (ques_count >= 101 && ques_count <= 110) || \
+					ques_count == 124 || ques_count == 149) //T vs F
 		{
 			score[2] += input;
 			max[2] += 10;
 		}
-		else if ((ques_count >= 31 && ques_count <= 40) || ques_count == 61 || \
-					ques_count == 66 || ques_count == 68 || ques_count == 76 || \
-					ques_count == 77 || ques_count == 81 || ques_count == 82 || \
-					ques_count == 89 || ques_count == 90) //J vs P
+		else if ((ques_count >= 61 && ques_count <= 80) || (ques_count >= 111 && ques_count <= 120) || \
+				ques_count == 123 || ques_count == 125 || ques_count == 127 || ques_count == 128 || \
+				ques_count == 129 || ques_count == 134 || ques_count == 137 || ques_count == 140 || \
+				ques_count == 141 || ques_count == 146 || ques_count == 150) //J vs P
 		{
 			score[3] += input;
 			max[3] += 10;
 		}
-		else if (ques_count >= 41 && ques_count <= 43)
-		{
-			score[0] += input;
-			score[1] += input;
-			max[0] += 10;
-			max[1] += 10;
-		}
-		else if (ques_count >= 44 && ques_count <= 46)
+		else if (ques_count == 130 || ques_count == 143)
 		{
 			score[0] += 10 - input;
-			score[1] += 10 - input;
 			max[0] += 10;
-			max[1] += 10;
 		}
-		else if (ques_count >= 47 && ques_count <= 49)
-		{
-			score[2] += input;
-			score[1] += input;
-			max[2] += 10;
-			max[1] += 10;
-		}
-		else if (ques_count >= 50 && ques_count <= 52)
+		else if (ques_count == 147)
 		{
 			score[2] += 10 - input;
-			score[1] += 10 - input;
 			max[2] += 10;
-			max[1] += 10;
 		}
-		else if (ques_count >= 53 && ques_count <= 55)
+		else if (ques_count == 122 || ques_count == 126)
 		{
-			score[2] += input;
-			score[3] += input;
-			max[2] += 10;
-			max[3] += 10;
-		}
-		else if (ques_count >= 56 && ques_count <= 58)
-		{
-			score[2] += 10 - input;
 			score[3] += 10 - input;
-			max[2] += 10;
 			max[3] += 10;
 		}
-		else if (ques_count == 59 || ques_count == 63 || ques_count == 69 || \
-					ques_count == 78 || ques_count == 79 || ques_count == 83 || \
-					ques_count == 84 || ques_count == 86 || ques_count == 87)
-		{
-			score[0] += 10 - input;
-			max[0] += 10;
-		}
-		else if (ques_count == 62)
-		{
-			score[1] += 10 - input;
-			max[1] += 10;
-		}
-		else if (ques_count > 90)
+		else if (ques_count > 150)
 		{
 			printf("\nNumber of line in the Question File exceeded.\n");
 			printf("\nProgram session will be terminate.\n\n");
