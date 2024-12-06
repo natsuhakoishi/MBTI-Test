@@ -61,14 +61,10 @@ int	main(int argc, char **argv)
 		if (scanf(" %c", &c) != 1)
 		{
 			while (getchar() != '\n')
-			{
 				continue;
-			}
 		}
 		else
-		{
 			getchar();
-		}
 	}
 	if (c == 'n' || c == 'N')
 	{
