@@ -50,7 +50,7 @@ int	main(int argc, char **argv)
 		return (1);
 	}
 	printf("\nWelcome to MBTI Test Program by NatsuhaKoishi\n");
-	printf("Answer all (total 90) Question with a score between 1 ~ 10.\n\n");
+	printf("Answer all (total 150) Question with a score between 1 ~ 10.\n\n");
 	while ((line = get_next_line(fileno(question))) != NULL)
 	{
 		input = 0;
